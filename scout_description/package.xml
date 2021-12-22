@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>scout_description</name>
-  <version>0.4.2</version>
+  <version>0.0.1</version>
   <description>AgileX Scout Husky URDF description</description>
 
   <author email="tang___xi@163.com">885288421</author>
@@ -19,7 +19,6 @@
   <run_depend>urdf</run_depend>
   <run_depend>xacro</run_depend>
   <run_depend>lms1xx</run_depend>
-
   <export>
   </export>
 </package>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>scout_base</name>
-  <version>0.3.3</version>
+  <version>0.0.1</version>
   <description>AgileX Scout robot driver</description>
 
   <author email="ruixiang.du@westonrobot.com">Ruixiang Du</author>
